@@ -1,1 +1,4 @@
-test
+**
+** Wskazówki do pracy **
+**
+** - 
